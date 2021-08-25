@@ -1,4 +1,4 @@
-### Hi there, I'm [BNTang!](https://xiaohuihuit.github.io/about/)👋
+### :man_technologist: Hi there, I'm [BNTang!](https://xiaohuihuit.github.io/about/)👋
 
 - 🔭 I’m currently working on Full Stack engineer
 - 🌱 I’m currently learning ...
@@ -8,6 +8,75 @@
 - 📫 How to reach me: 303158131@qq.com
 - 😄 Pronouns: BNTang
 - ⚡ Fun fact: ...
+
+### :zap: Languages I use
+
+<img align="left" src="icons/javascript.svg" alt="JavaScript" height="40px" />
+<img align="left" src="icons/python.svg" alt="Python" height="40px" />
+<img align="left" src="icons/php.svg" alt="PHP" height="40px" />
+<img align="left" src="icons/node-js.svg" alt="nodeJs" height="40px" />
+
+<br/>
+
+### :rocket: Some of the technologies I have worked with
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Stylus](https://img.shields.io/badge/-Stylus-000000?style=flat&logo=Stylus)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vuedotjs)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Material](https://img.shields.io/badge/-Material-000000?style=flat&logo=material-design)
+![Bulma](https://img.shields.io/badge/-Bulma-000000?style=flat&logo=Bulma)
+![Ant](https://img.shields.io/badge/-Antd-000000?style=flat&logo=ant-design)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-000000?style=flat&logo=Nuxtdotjs)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000000?style=flat&logo=chartdotjs)
+![ESLint](https://img.shields.io/badge/-ESLint-000000?style=flat&logo=ESLint)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
+![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=Yarn)
+![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=Vite)
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
+![gulp](https://img.shields.io/badge/-gulp-000000?style=flat&logo=gulp)
+![rollup.js](https://img.shields.io/badge/-Rollup-000000?style=flat&logo=rollupdotjs)
+![Bower](https://img.shields.io/badge/-Bower-000000?style=flat&logo=bower)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
+![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)
+![Hugo](https://img.shields.io/badge/-Hugo-000000?style=flat&logo=Hugo)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=WordPress)
+![Hotjar](https://img.shields.io/badge/-Hotjar-000000?style=flat&logo=hotjar)
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![Centos](https://img.shields.io/badge/-Centos-000000?style=flat&logo=Centos)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
+![PyPI](https://img.shields.io/badge/-PyPI-000000?style=flat&logo=PyPI)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=Selenium)
+![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=Numpy)
+![pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)
+![jsDelivr](https://img.shields.io/badge/-jsDelivr-000000?style=flat&logo=jsDelivr)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
+![Google Analytics](https://img.shields.io/badge/-GA-000000?style=flat&logo=google-analytics)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains)
+![diagrams](https://img.shields.io/badge/-diagrams-000000?style=flat&logo=diagramsdotnet)
+![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=Storybook)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=Jira)
+![Gitee](https://img.shields.io/badge/-Gitee-000000?style=flat&logo=gitee)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Awesome](https://img.shields.io/badge/-Awesome-000000?style=flat&logo=awesome-lists)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BNTang&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNTang github stats" width="488" height="170" />
