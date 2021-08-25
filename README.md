@@ -78,6 +78,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Awesome](https://img.shields.io/badge/-Awesome-000000?style=flat&logo=awesome-lists)
 
+### :heart: Some of my favorite open source projects
+
+[![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
+[![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)](https://github.com/nodejs)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)](https://www.cloudflare.com/)
+[![jsDelivr](https://img.shields.io/badge/-jsDelivr-000000?style=flat&logo=jsDelivr)](https://github.com/jsdelivr/jsdelivr)
+[![Awesome](https://img.shields.io/badge/-Awesome-000000?style=flat&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BNTang&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNTang github stats" width="488" height="170" />
 </a>
