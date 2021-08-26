@@ -15,6 +15,7 @@
 <img align="left" src="icons/python.svg" alt="Python" height="40px" />
 <img align="left" src="icons/php.svg" alt="PHP" height="40px" />
 <img align="left" src="icons/node-js.svg" alt="nodeJs" height="40px" />
+<img align="left" src="icons/java.svg" alt="Java" height="40px" />
 
 <br/>
 
