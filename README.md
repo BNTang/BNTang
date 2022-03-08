@@ -1,3 +1,7 @@
+<a href="https://www.cnblogs.com/BNTang/" target="_blank">
+<img align="center" src="images/Home.jpg"/>
+</a>
+
 ### :man_technologist: Hi there, I'm [BNTang!](https://xiaohuihuit.github.io/about/)👋
 
 - 🔭 I’m currently working on Full Stack engineer
