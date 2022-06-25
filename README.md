@@ -99,3 +99,21 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
 </a>
+
+### :tada: Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+```
+
+### :art: JavaScript
+
+```javascript
+<script>
+    console.log("Hello World!");
+</script>
+```
