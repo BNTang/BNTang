@@ -94,26 +94,5 @@
 [![Awesome](https://img.shields.io/badge/-Awesome-000000?style=flat&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BNTang&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNTang github stats" width="488" height="170" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
-</a>
-
-### :tada: Java
-
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
-```
-
-### :art: JavaScript
-
-```javascript
-<script>
-    console.log("Hello World!");
-</script>
-```
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BNTang&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="BNTang github stats" width="450px" height="170" /></a><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" width="389px" height="168" /></a>
