@@ -98,3 +98,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNTang&layout=compact&theme=material-palenight" alt="Top Langs" width="389px" height="168" /></a>
 
 ![](https://raw.githubusercontent.com/BNTang/BNTang/main/assets/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BNTang/BNTang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BNTang/BNTang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BNTang/BNTang/output/github-contribution-grid-snake.svg">
+</picture>
