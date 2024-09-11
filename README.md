@@ -13,15 +13,6 @@
 - 😄 Pronouns: BNTang
 - ⚡ Fun fact: ...
 
-### :zap: Languages I use
-
-<img align="left" src="icons/javascript.svg" alt="JavaScript" height="40px" />
-<img align="left" src="icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="icons/node-js.svg" alt="nodeJs" height="40px" />
-<img align="left" src="icons/java.svg" alt="Java" height="40px" />
-
-<br/>
-
 ### :rocket: Some of the technologies I have worked with
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
