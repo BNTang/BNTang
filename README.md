@@ -2,7 +2,7 @@
 <img align="center" src="images/Home.jpg"/>
 </a>
 
-### :man_technologist: Hi 👋 there, I'm [BNTang!](https://xiaohuihuit.github.io/about/) <img height="30" src="images/work.gif" />
+### :man_technologist: Hi 👋 there, I'm [DaTianCai!](https://xiaohuihuit.github.io/about/) <img height="30" src="images/work.gif" />
 
 - 🔭 I’m currently working on Full Stack engineer
 - 🌱 I’m currently learning ...
